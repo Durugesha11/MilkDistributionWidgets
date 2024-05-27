@@ -1,0 +1,24 @@
+1:Invalid name
+1:Invalid PhoneNumer
+1:Invalid Milk Quantity
+1:Invalid House Number
+1:Invalid Area name
+1:Invalid City name
+1:Invalid Pincode
+1:valid entry=1,justin b,0, 2, 102, RR Nagar, Bangalore
+2:Invalid name
+2:Invalid PhoneNumer
+2:Invalid Milk Quantity
+2:Invalid House Number
+2:Invalid Area name
+2:Invalid City name
+2:Invalid Pincode
+2:valid entry=2,durgesh b,0, 2, 102, RR Nagar, Bangalore
+3:Invalid name
+3:Invalid PhoneNumer
+3:Invalid Milk Quantity
+3:Invalid House Number
+3:Invalid Area name
+3:Invalid City name
+3:Invalid Pincode
+3:valid entry=3,jahn b,0, 2, 102, RR Nagar, Bangalore
